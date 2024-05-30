@@ -1,5 +1,5 @@
 
-from tkinter import Tk, Label, Button,Entry, Frame, END
+from tkinter import *
 import pandas as pd
 
 ventana = Tk()
